@@ -33,9 +33,6 @@
 
 <img align="right" height="240" src="https://steamuserimages-a.akamaihd.net/ugc/170412021733266950/1CD0513C34E143D362389DD0D9F2CC0B3BBB2123/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
 
-###
-
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoPedroMoreira02&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
