@@ -1,4 +1,4 @@
-<h2 align="left">Hello, friend 👋! My name is S3R0N ​​and I am an Ethical Hacker, CTF Player and Computer Science student, also working with Bug Bounty and playing WoW in my spare time</h2>
+<h2 align="left">Hello, friend 👋! I am an Ethical Hacker, CTF Player and Computer Science student, also working with Bug Bounty and playing WoW in my spare time</h2>
 
 ###
 
