@@ -26,12 +26,6 @@
 
 ###
 
-<a>
-  <img align="right" heigth="500" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jsmoreira02&amp;theme=2077" alt="visitors">
-</a>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
   <img width="12" />
