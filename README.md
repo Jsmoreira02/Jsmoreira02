@@ -9,6 +9,9 @@
 
 ###
 
+# 💻 Techs and Tools:
+![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
 <div align="left">
   <a href="https://www.linkedin.com/in/joaomoreira02/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
@@ -23,7 +26,7 @@
 
 ###
 
-<img align="right" height="170" src="https://steamuserimages-a.akamaihd.net/ugc/170412021733266950/1CD0513C34E143D362389DD0D9F2CC0B3BBB2123/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
+<img align="right" heigth="500" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jsmoreira02&amp;theme=2077" alt="visitors">
 
 ###
 
@@ -46,5 +49,10 @@
 ###
 
 <h3 align="left">I hope you like my projects. I'm always around developing cybersecurity tools and exploits 👨‍💻⚡</h3>
+
+  - 📄 I'm currently learning: Full stack Web Development, Mobile Hacking
+  - 🔭 I’m currently working on: Advanced Keylogger, Hash cracking, Payloads...
+  - 🚀 Playing CTF on the platforms: Hack The Box, TryHackMe and root-me
+  - 🌱 I like reading other people's code and technology articles
 
 ###
