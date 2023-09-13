@@ -22,11 +22,10 @@
   <a href="https://www.instagram.com/jpmoreira_101/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
+  <a>
+    <img align="right" heigth="500" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jsmoreira02&amp;theme=2077" alt="visitors">
+  </a>
 </div>
-
-###
-
-<img align="right" heigth="500" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jsmoreira02&amp;theme=2077" alt="visitors">
 
 ###
 
