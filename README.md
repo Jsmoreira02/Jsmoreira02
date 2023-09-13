@@ -26,10 +26,6 @@
 
 ###
 
-<a>
-  <img align="right" heigth="500" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jsmoreira02&amp;theme=2077" alt="visitors">
-</a>
-
 ###
 
 <div align="left">
