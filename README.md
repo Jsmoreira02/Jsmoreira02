@@ -1,15 +1,18 @@
-<h2>Hello, friend 👋! I am an Ethical Hacker, CTF Player and Computer Science student, also working with Bug Bounty and playing WoW in my spare time</h2>
+## Hello, friend 👋! I am an Ethical Hacker, CTF Player and Computer Science student, also working with Bug Bounty and playing WoW in my spare time ##
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Jsmoreira02&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Jsmoreira02&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="139" alt="languages graph"  />
+  
+  ![Streak Graph](https://streak-stats.demolab.com?user=Jsmoreira02&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5)
+  ![Languages Graph](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Jsmoreira02&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false)
+  
 </div>
+
 
 ###
 
-# 💻 Techs and Tools:
+## 💻 Techs and Tools:
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
@@ -47,7 +50,7 @@
 
 ###
 
-<h3>I hope you like my projects. I'm always around developing cybersecurity tools and exploits 👨‍💻⚡</h3>
+### I hope you like my projects. I'm always around developing cybersecurity tools and exploits 👨‍💻⚡ ###
 
   - 📄 I'm currently learning: Full stack Web Development, Mobile Hacking
   - 🔭 I’m currently developing: Advanced Keylogger, Hash cracking, Payloads...
