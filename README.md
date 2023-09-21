@@ -1,4 +1,4 @@
-<h1>Hello, friend 👋! I am an Ethical Hacker, CTF Player and Computer Science student, also working with Bug Bounty and playing WoW in my spare time</h1>
+<h2>Hello, friend 👋! I am an Ethical Hacker, CTF Player and Computer Science student, also working with Bug Bounty and playing WoW in my spare time</h2>
 
 ###
 
