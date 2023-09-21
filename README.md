@@ -1,4 +1,4 @@
-<h2 align="left">Hello, friend 👋! I am an Ethical Hacker, CTF Player and Computer Science student, also working with Bug Bounty and playing WoW in my spare time</h2>
+<h2>Hello, friend 👋! I am an Ethical Hacker, CTF Player and Computer Science student, also working with Bug Bounty and playing WoW in my spare time</h2>
 
 ###
 
@@ -44,7 +44,7 @@
 
 ###
 
-<h3 align="left">I hope you like my projects. I'm always around developing cybersecurity tools and exploits 👨‍💻⚡</h3>
+<h3>I hope you like my projects. I'm always around developing cybersecurity tools and exploits 👨‍💻⚡</h3>
 
   - 📄 I'm currently learning: Full stack Web Development, Mobile Hacking
   - 🔭 I’m currently developing: Advanced Keylogger, Hash cracking, Payloads...
