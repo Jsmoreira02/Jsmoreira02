@@ -9,7 +9,7 @@
 
 ---
 
-# 💻 Techs and Tools:
+# 💻 Techs and Tools: #
 
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
@@ -25,7 +25,7 @@
   </a>
 </div>
 
-###
+### ###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="python logo"  />
@@ -44,7 +44,7 @@
 </div>
 
 
-### I hope you like my projects. I'm always around developing cybersecurity tools and exploits 👨‍💻⚡
+### I hope you like my projects. I'm always around developing cybersecurity tools and exploits 👨‍💻⚡ ###
 
 - 📄 I'm currently learning: Full stack Web Development, Mobile Hacking
 - 🔭 I’m currently developing: Advanced Keylogger, Hash cracking, Payloads...
