@@ -1,13 +1,13 @@
 <h2>Hello, friend 👋! I am an Ethical Hacker, CTF Player and Computer Science student, also working with Bug Bounty and playing WoW in my spare time</h2>
 
-###
+
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Jsmoreira02&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Jsmoreira02&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="139" alt="languages graph"  />
 </div>
 
-###
+
 
 <h1>💻 Techs and Tools:</h1>
 
@@ -25,7 +25,7 @@
   </a>
 </div>
 
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
@@ -43,7 +43,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="50" alt="css3 logo"  />
 </div>
 
-###
+
 
 <h3>I hope you like my projects. I'm always around developing cybersecurity tools and exploits 👨‍💻⚡</h3>
 
@@ -52,4 +52,4 @@
   - 🚀 Playing CTF on the platforms: Hack The Box, TryHackMe and root-me
   - 🌱 I like reading other people's code and technology articles
 
-###
+
