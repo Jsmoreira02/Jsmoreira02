@@ -32,6 +32,6 @@
 ### I hope you like my projects. I'm always around developing cybersecurity tools and exploits 👨‍💻⚡ ###
 
 - 📄 I'm currently learning: Full stack Web Development, Mobile Hacking
-- 🔭 I’m currently developing: Advanced Keylogger, Hash cracking, Payloads...
+- 🔭 I’m currently developing: Hash cracking, Payloads, reverse_shell generator
 - 🚀 Playing CTF on the platforms: Hack The Box, TryHackMe and root-me
 - 🌱 I like reading other people's code and technology articles
