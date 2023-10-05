@@ -1,4 +1,4 @@
-## Hello, friend 👋! I am an Ethical Hacker, CTF Player and Computer Science student, also working with Bug Bounty and playing WoW in my spare time ##
+## Hello, friend! I am an Ethical Hacker, CTF Player and Computer Science student, also working with Bug Bounty and playing WoW in my spare time ##
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jsmoreira02&theme=dracula&hide_border=false" height="160" />
