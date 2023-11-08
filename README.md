@@ -28,12 +28,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="50" alt="css3 logo"  />
 </div>
 
-## Other projects: ##
-- [Port Scanning](https://github.com/Jsmoreira02/Port-Scanner)
-- [Exploit for sar2HTML vulnerability](https://github.com/Jsmoreira02/sar2HTML_exploit)
-
-###
-
 ### I hope you like my projects. I'm always around developing cybersecurity tools and exploits 👨‍💻⚡ ###
 
 - 📄 I'm currently learning: Full stack Web Development, Mobile Hacking
