@@ -5,7 +5,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jsmoreira02&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="160" />  
 </div>
 
-# 💻 Tech Stack: #
+# Tech Stack: #
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/joaomoreira02/)
@@ -35,3 +35,11 @@
 - 🔭 I’m currently developing: Hash cracking, Payloads, reverse_shell generator
 - 🚀 Playing CTF on the platforms: Hack The Box, TryHackMe and root-me
 - 🌱 I like reading other people's code and technology articles
+
+###
+
+# Other projects: #
+- [Port Scanning](https://github.com/Jsmoreira02/Port-Scanner)
+- [Exploit for sar2HTML vulnerability](https://github.com/Jsmoreira02/sar2HTML_exploit)
+
+###
