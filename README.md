@@ -38,7 +38,7 @@
 
 ###
 
-# Other projects: #
+## Other projects: ##
 - [Port Scanning](https://github.com/Jsmoreira02/Port-Scanner)
 - [Exploit for sar2HTML vulnerability](https://github.com/Jsmoreira02/sar2HTML_exploit)
 
