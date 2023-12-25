@@ -30,7 +30,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="50" alt="css3 logo"  />
 </div>
 
-### I hope you like my projects (if you do, please give them a star ⭐). I'm always around developing cybersecurity tools and exploits 👨‍💻⚡ ###
+### I hope you like my projects (if you do, please consider giving them a star ⭐). I'm always around developing cybersecurity tools and exploits 👨‍💻⚡ ###
 
 - 📄 I'm currently learning: Full stack Web Development, Mobile Hacking
 - 🔭 I’m currently developing: Hash cracking, Payloads, reverse_shell generator
