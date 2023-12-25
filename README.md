@@ -23,6 +23,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" alt="bash logo"  />
   <img width="12" /> 
+  <img src="https://raw.githubusercontent.com/gist/Xainey/d5bde7d01dcbac51ac951810e94313aa/raw/6c858c46726541b48ddaaebab29c41c07a196394/PowerShell.svg" width="50" alt="powershell logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="50" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="50" alt="css3 logo"  />
@@ -36,3 +38,9 @@
 - 🌱 I like reading other people's code and technology articles
 
 ###
+
+### Other Projects:
+
+- [sar2HTML_exploit](https://github.com/Jsmoreira02/sar2HTML_exploit) -> Exploit the Sar2HTML RCE vulnerability and also perform a Shell Upload on the target.
+- [CVE-2014-6271](https://github.com/Jsmoreira02/CVE-2014-6271) -> Remote code execution in Apache with mod_cgi. 
+- [Show_me_the_ports](https://github.com/Jsmoreira02/Port-Scanner) -> Scanning and enumeration of open ports on target machine for pentest recognition step.
