@@ -32,7 +32,7 @@
 
 ### I hope you like my projects (if you do, please consider giving them a star ⭐). I'm always around developing cybersecurity tools and exploits 👨‍💻⚡ ###
 
-- 📄 I'm currently learning: Full stack Web Development, Mobile Hacking
+- 📄 I'm currently learning: Powershell and Mobile Hacking
 - 🔭 I’m currently developing: Hash cracking, Payloads, reverse_shell generator
 - 🚀 Playing CTF on the platforms: Hack The Box, TryHackMe and root-me
 - 🌱 I like reading other people's code and technology articles
