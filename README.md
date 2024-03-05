@@ -45,4 +45,4 @@
 - [CVE-2014-6271](https://github.com/Jsmoreira02/CVE-2014-6271) -> Remote code execution in Apache with mod_cgi. 
 - [Show_me_the_ports](https://github.com/Jsmoreira02/Port-Scanner) -> Scanning and enumeration of open ports on target machine for pentest recognition step.
 
-Check it out -> [offsec.tools](https://github.com/gwen001/offsectools_www) <- The place I go to find good bug bounty tools.
+Check it out -> [offsec.tools](https://offsec.tools/) <- The place I go to find good bug bounty tools.
