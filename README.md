@@ -36,7 +36,7 @@ Hope you like my projects (if you do, please consider giving them a star ⭐). I
 ###
 
 <details>
-  <summary><b>⚡Other Projects:</b></summary>
+  <summary><b>⚡ Other Projects:</b></summary>
   <br><table>
     <tr>
       <td><p><a href="https://github.com/Jsmoreira02/sar2HTML_exploit">sar2HTML_exploit</a> -> Exploit the Sar2HTML RCE vulnerability and also perform a Shell Upload on the target.</p></td>
