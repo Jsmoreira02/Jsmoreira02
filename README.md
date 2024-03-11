@@ -1,11 +1,7 @@
-## Hello, friend! I am an Ethical Hacker, CTF Player and Computer Science student, also working with Bug Bounty and playing WoW in my spare time. I am a big fan of malware and exploit development, and I also have a lot of fun creating hacking tools. ##
+### Hello, friend! I am an Ethical Hacker, CTF Player and Computer Science student, also working with Bug Bounty and playing WoW in my spare time. I am a big fan of malware and exploit development, and I also have a lot of fun creating hacking tools.
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jsmoreira02&theme=dracula&hide_border=false" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jsmoreira02&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="160" />  
-</div>
+### Tech Stack: ###
 
-# Tech Stack: #
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/joaomoreira02/)
@@ -28,9 +24,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="50" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="50" alt="css3 logo"  />
-</div>
+</div><br>
 
-### I hope you like my projects (if you do, please consider giving them a star ⭐). I'm always around developing cybersecurity tools and exploits 👨‍💻⚡ ###
+Hope you like my projects (if you do, please consider giving them a star ⭐). I'm always around developing cybersecurity tools and exploits 👨‍💻
 
 - 📄 I'm currently learning: Powershell and Mobile Hacking
 - 🔭 I’m currently developing: Hash cracking, Payloads, reverse_shell generator
@@ -39,10 +35,20 @@
 
 ###
 
-### Other Projects:
+<details>
+  <summary><b>⚡Other Projects:</b></summary>
+  <br><table>
+    <tr>
+      <td><p><a href="https://github.com/Jsmoreira02/sar2HTML_exploit">sar2HTML_exploit</a> -> Exploit the Sar2HTML RCE vulnerability and also perform a Shell Upload on the target.</p></td>
+    </tr>
+    <tr>
+      <td><p><a href="https://github.com/Jsmoreira02/CVE-2014-6271">CVE-2014-6271</a> -> Remote code execution in Apache with mod_cgi.</p></td>
+    </tr>
+    <tr>
+      <td><p><a href="https://github.com/Jsmoreira02/Port-Scanner">Show_me_the_ports</a> -> Scanning and enumeration of open ports on target machine for pentest recognition step.</p></td>
+    </tr>
+  </table>
+</details>
 
-- [sar2HTML_exploit](https://github.com/Jsmoreira02/sar2HTML_exploit) -> Exploit the Sar2HTML RCE vulnerability and also perform a Shell Upload on the target.
-- [CVE-2014-6271](https://github.com/Jsmoreira02/CVE-2014-6271) -> Remote code execution in Apache with mod_cgi. 
-- [Show_me_the_ports](https://github.com/Jsmoreira02/Port-Scanner) -> Scanning and enumeration of open ports on target machine for pentest recognition step.
-
-Check it out -> [offsec.tools](https://offsec.tools/) <- The place I go to find good bug bounty tools.
+- Check it out -> [offsec.tools](https://offsec.tools/) <- The place I go to find good bug bounty tools.
+- A bit of motivation: -> [Great Stuff](https://ia600102.us.archive.org/15/items/HackersManifesto/Hackers-manafesto.txt) <-
