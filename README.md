@@ -1,11 +1,6 @@
 ## Hello, friend! I am an Ethical Hacker, CTF Player and Computer Science student, also working with Bug Bounty and playing WoW in my spare time. I am a big fan of malware and exploit development, and I also have a lot of fun creating hacking tools. ##
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jsmoreira02&theme=dracula&hide_border=false" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jsmoreira02&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="160" />  
-</div>
 
-# Tech Stack: #
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/joaomoreira02/)
