@@ -47,6 +47,9 @@ Hope you like my projects (if you do, please consider giving them a star ⭐). I
     <tr>
       <td><p><a href="https://github.com/Jsmoreira02/Port-Scanner">Show_me_the_ports</a> -> Scanning and enumeration of open ports on target machine for pentest recognition step.</p></td>
     </tr>
+    <tr>
+      <td>><p><a href="https://github.com/Jsmoreira02/LFI-Hunter">LFI-Hunter</a> -> Bypass and exploit Local FIle Inclusion Filtering Systems.</p></td>
+    </tr>
   </table>
 </details>
 
