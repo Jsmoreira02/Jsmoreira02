@@ -13,7 +13,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="50" alt="ruby logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="50" alt="ruby logo"  />
+  <img src="https://github.com/Jsmoreira02/Jsmoreira02/assets/103542430/b638afba-7905-4903-87ca-19a14ff2d2d7" width="50" alt="ruby logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" width="50" alt="cplusplus logo"  />
   <img width="12" />
@@ -21,7 +21,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" alt="bash logo"  />
   <img width="12" /> 
-  <img src="https://raw.githubusercontent.com/gist/Xainey/d5bde7d01dcbac51ac951810e94313aa/raw/6c858c46726541b48ddaaebab29c41c07a196394/PowerShell.svg" width="50" alt="powershell logo" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/powershell/powershell-original.svg" width="50" alt="powershell logo" />
   <img width="12" />
 </div><br>
 
