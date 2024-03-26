@@ -38,16 +38,16 @@ Hope you like my projects (if you do, please consider giving them a star ⭐). I
   <summary><b>⚡ Other Projects:</b></summary>
   <br><table>
     <tr>
-      <td><p><a href="https://github.com/Jsmoreira02/sar2HTML_exploit">sar2HTML_exploit</a> -> Exploit the Sar2HTML RCE vulnerability and also perform a Shell Upload on the target.</p></td>
+      <td><p><a href="https://github.com/Jsmoreira02/sar2HTML_exploit">sar2HTML Exploit</a> -> Exploit the Sar2HTML RCE vulnerability and also perform a Shell Upload on the target.</p></td>
     </tr>
     <tr>
-      <td><p><a href="https://github.com/Jsmoreira02/CVE-2014-6271">CVE-2014-6271</a> -> Remote code execution in Apache with mod_cgi.</p></td>
+      <td><p><a href="https://github.com/Jsmoreira02/Mr_Hash">Mr. Hash</a> -> Decryption, Hash cracking and Several other uses. Built for CTF and Hacking</p></td>
     </tr>
     <tr>
-      <td><p><a href="https://github.com/Jsmoreira02/Port-Scanner">Show_me_the_ports</a> -> Scanning and enumeration of open ports on target machine for pentest recognition step.</p></td>
+      <td><p><a href="https://github.com/Jsmoreira02/Port-Scanner">Show Me The Ports</a> -> Scanning and enumeration of open ports on target machine for pentest recognition step.</p></td>
     </tr>
     <tr>
-      <td><p><a href="https://github.com/Jsmoreira02/LFI-Hunter">LFI-Hunter</a> -> Exploit and Bypass Local File Inclusion Filtering systems.</p></td>
+      <td><p><a href="https://github.com/Jsmoreira02/LFI-Hunter">Local File Inclusion Hunter</a> -> Exploit and Bypass Local File Inclusion Filtering systems.</p></td>
     </tr>
   </table>
 </details>
