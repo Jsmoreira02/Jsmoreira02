@@ -1,4 +1,4 @@
-### Hello, friend! I am an Ethical Hacker, CTF Player and Computer Science student, also working with Bug Bounty and playing WoW in my spare time. I am a big fan of malware and exploit development, and I also have a lot of fun creating hacking tools.
+### Hello, friend! I am an Ethical Hacker, CTF Player and IT intern, also working with Bug Bounty and playing WoW in my spare time. I am a big fan of malware and exploit development, and I also have a lot of fun creating hacking tools.
 
 ### Tech Stack: ###
 
