@@ -11,7 +11,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="50" alt="ruby logo"  />
   <img width="12" />
-  <img src="https://github.com/Jsmoreira02/BAKCUP/assets/103542430/55c916f0-d36e-4c80-a4d2-5b588506e59d" height="50" alt="rust logo"  />
+  <img src="https://github.com/Jsmoreira02/Jsmoreira02/assets/103542430/15304d7a-4f3c-460c-b998-c0413eb62a7e" height="50" alt="rust logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" width="50" alt="cplusplus logo"  />
   <img width="12" />
