@@ -40,7 +40,7 @@ Hope you like my projects (if you do, please consider giving them a star ⭐). I
       <td><p><a href="https://github.com/Jsmoreira02/Port-Scanner">Show Me The Ports</a> -> Scanning and enumeration of open ports on target machine for pentest recognition step.</p></td>
     </tr>
     <tr>
-      <td><p><a href="https://github.com/Jsmoreira02/LFI-Hunter">Local File Inclusion Hunter</a> -> Exploit and Bypass Local File Inclusion Filtering systems.</p></td>
+      <td><p><a href="https://github.com/Jsmoreira02/CVE-2014-6271 ">CVE-2014-6271</a> -> Shellshock cgi-bin Exploitation</p></td>
     </tr>
   </table>
 </details>
