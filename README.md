@@ -40,6 +40,9 @@ Hope you like my projects (if you do, please consider giving them a star ⭐). I
     <tr>
       <td><p><a href="https://github.com/Jsmoreira02/CVE-2014-6271 ">CVE-2014-6271</a> -> Shellshock cgi-bin Exploitation. Remote Command Execution Vulnerability</p></td>
     </tr>
+    <tr>
+      <td><p><a href="https://github.com/Jsmoreira02/LFI-Hunter">LFI Hunter</a> -> Automated tool to bypass filtering systems and exploit Local File Inclusion</p></td>
+    </tr>
   </table>
 </details>
 
