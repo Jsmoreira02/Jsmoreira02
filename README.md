@@ -32,7 +32,7 @@ Hope you like my projects (if you do, please consider giving them a star ⭐). I
       <td><p><a href="https://github.com/Jsmoreira02/sar2HTML_exploit">sar2HTML Exploit</a> -> Exploit the Sar2HTML RCE vulnerability and also perform a Shell Upload on the target.</p></td>
     </tr>
     <tr>
-      <td><p><a href="https://github.com/Jsmoreira02/Wind0wsM4lware_">Windows Malware | Process Injection</a> -> Injection of malicious code into legitimate Windows processes for evasion and simple malware to gain unauthorized access</p></td>
+      <td><p><a href="https://github.com/Jsmoreira02/Wind0wsM4lware_">Windows Malware</a> -> Injection of malicious code into legitimate Windows processes for evasion and simple malware to gain unauthorized access</p></td>
     </tr>
     <tr>
       <td><p><a href="https://github.com/Jsmoreira02/Port-Scanner">Show Me The Ports</a> -> Scanning and enumeration of open ports on target machine for pentest recognition step.</p></td>
