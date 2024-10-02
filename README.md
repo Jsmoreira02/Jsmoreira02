@@ -5,7 +5,7 @@
 <div align="left"> 
   <i><h2>🔥 Hello, Friend!</h2></i> 
   
-  <i><b>Malware Coder | Tool Maker | Programming Enthusiast | Ethical Hacker</i></b><br><br>
+  <i><b>Malware Dev | Tool Maker | Programming Enthusiast | Ethical Hacker</i></b><br><br>
   <i>Hope you like my projects (if you do, please consider giving them a star ⭐). Not being a script kiddie is my main goal. That's why I'm always around developing cybersecurity tools and exploits 👨‍💻<br>
      <br>
       
