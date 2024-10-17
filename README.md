@@ -22,6 +22,9 @@
       <td><p><a href="https://github.com/Jsmoreira02/Port-Scanner">Show Me The Ports</a> -> Scanning and enumeration of open ports on target machine for pentest recognition step.</p></td>
     </tr>
     <tr>
+      <td><p><a href="https://github.com/Jsmoreira02/Mr_Hash">Mr Hash</a> -> Decryption, hash cracking and various other utilities to optimize your hacking or privilege escalation.</p></td>
+    </tr>
+    <tr>
       <td><p><a href="https://github.com/Jsmoreira02/Cronjob-Exploit">CronJob Exploit</a> -> Privilege escalation using an writable file that will be executed by a privileged user in a Cron task.</p></td>
     <tr>
       <td><p><a href="https://github.com/Jsmoreira02/CVE-2014-6271 ">CVE-2014-6271</a> -> Shellshock cgi-bin Exploitation. Remote Command Execution Vulnerability</p></td>
