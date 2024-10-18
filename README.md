@@ -38,5 +38,4 @@
 </div>
 
 - Check it out -> [offsec.tools](https://offsec.tools/) <- The place I go to find good bug bounty tools.
-- A bit of motivation: -> [Great Stuff](https://ia600102.us.archive.org/15/items/HackersManifesto/Hackers-manafesto.txt) <-
 - Check out my other account, focused on development: [JMoreira2Dev](https://github.com/JMoreira2Dev)
