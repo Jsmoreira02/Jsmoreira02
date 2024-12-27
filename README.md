@@ -1,14 +1,3 @@
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/6232aeba-6ca2-4930-99ca-e61144c2abf2">
-</div>
-
-<div align="left"> 
-  <i><h2>🔥 Hello, Friend!</h2></i> 
-  
-  <i><b>Malware Dev | Security Researcher | Programming Enthusiast | Ethical Hacker</i></b><br><br>
-  <i>Hope you like my projects (if you do, please consider giving them a star ⭐). Not being a script kiddie is my main goal. That's why I'm always around developing cybersecurity tools and exploits 👨‍💻<br>
-     <br>
-      
 <details>
   <summary><b>💻 Other Projects:</b></summary>
   <br><table>
@@ -37,6 +26,5 @@
 
 </div>
 
-- Check it out -> [offsec.tools](https://offsec.tools/) <- The place I go to find good bug bounty tools.
 - Portfolio Web Page -> https://jsmoreira02.github.io/
 - Check out my other account, focused on development: [JMoreira2Dev](https://github.com/JMoreira2Dev)
