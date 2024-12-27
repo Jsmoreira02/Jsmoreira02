@@ -16,7 +16,7 @@
     <tr>
       <td><p><a href="https://github.com/Jsmoreira02/Cronjob-Exploit">CronJob Exploit</a> -> Privilege escalation using an writable file that will be executed by a privileged user in a Cron task.</p></td>
     <tr>
-      <td><p><a href="https://github.com/Jsmoreira02/CVE-2014-6271 ">CVE-2014-6271</a> -> Shellshock cgi-bin Exploitation. Remote Command Execution Vulnerability</p></td>
+      <td><p><a href="https://github.com/Jsmoreira02/Process_Injection">Windows Malware | Process Injection</a> -> Injection of malicious code into legitimate Windows processes and simple malware</p></td>
     </tr>
     <tr>
       <td><p><a href="https://github.com/Jsmoreira02/LFI-Hunter">LFI Hunter</a> -> Automated tool to bypass filtering systems and exploit Local File Inclusion</p></td>
