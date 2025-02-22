@@ -5,7 +5,7 @@
       <td><p><a href="https://github.com/Jsmoreira02/sar2HTML_exploit">sar2HTML Exploit</a> -> Exploit the Sar2HTML RCE vulnerability and also perform a Shell Upload on the target.</p></td>
     </tr>
     <tr>
-      <td><p><a href="https://github.com/Jsmoreira02/ForceCannon">Force Cannon</a> -> brute force tool. Attack on login forms using the POST method without robust filters or protections</p></td>
+      <td><p><a href="https://github.com/Jsmoreira02/CVE-2014-6271">Shellshock Exploit</a> -> Exploitation of "Shellshock" Vulnerability. Remote code execution in Apache with mod_cgi</p></td>
     </tr>
     <tr>
       <td><p><a href="https://github.com/Jsmoreira02/Port-Scanner">Show Me The Ports</a> -> Scanning and enumeration of open ports on target machine for pentest recognition step.</p></td>
